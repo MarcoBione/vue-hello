@@ -7,7 +7,7 @@ createApp({
     data(){
         return {
             title: 'hello Vue js',
-            image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.wikipedia.org%2Fwiki%2FFelis_silvestris_catus&psig=AOvVaw2nrHB-3SENTZLZKnlRqCrf&ust=1680084579329000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjm3_qw_v0CFQAAAAAdAAAAABAI'
+            image: 'https://img.freepik.com/free-vector/black-hello-greeting-typography-vector-text_53876-175377.jpg?w=740&t=st=1680002140~exp=1680002740~hmac=8026a4b90afdea79c2d4b6379cb25d450638416da9e7c273df0c860cb94d310b'
         }
     }
 
